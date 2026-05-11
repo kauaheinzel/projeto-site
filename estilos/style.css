@@ -5,15 +5,15 @@
 }
 
 body{
-    background-color: rgb(205, 156, 251);
+    background-color: rgb(247, 12, 235);
 
 }
 
 main{
-    background-color: white;
+    background-color: rgb(244, 3, 3);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgb(255, 123, 0);
 
 }
